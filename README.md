@@ -1,4 +1,4 @@
-## Hi there 👋
+## Being forced to make this for GitHub Education
 
 <!--
 **Gustitrom/Gustitrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
